@@ -874,15 +874,16 @@ a {
     text-align: center;
   }
   .project_text {
-    padding: 0 22px 0 22px;
+    padding: 0 22px 32px 22px;
     font-size: 12px;
     line-height: 15px;
     text-align: center;
   }
   .project_btn {
+    display: flex;
     font-size: 12px;
     line-height: 15px;
     padding: 13px 28px;
-    margin: 32px 64px 0 64px;
+    margin: 0 auto;
   }
 }
