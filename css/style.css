@@ -240,9 +240,6 @@ a {
   margin-top: 50px;
 }
 
-.container_about {
-}
-
 .about_header {
   font-weight: 400;
   font-size: 48px;
@@ -339,9 +336,6 @@ a {
 
 .about_right_img {
   padding: 60px 50px 59px 60px;
-}
-
-.about_right_text {
 }
 
 .about_right_text-header {
@@ -873,7 +867,7 @@ a {
     height: 611px;
   }
   .questions_header {
-    font-size: 45px;    l
+    font-size: 45px;
   }
   .questions_tab-text {
     font-size: 20px;
