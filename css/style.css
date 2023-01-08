@@ -377,7 +377,35 @@ a {
   padding-right: 85px;
 }
 
+.work_btn {
+  background: #FFFFFF;
+  border: 2px solid #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+
+}
+
+.work_btn:hover {
+  color: #FF9900;
+}
+
+.work_btn:focus {
+  border: 2px solid #FF9900;
+  color: #000000;
+}
+
+.work_btn:active {
+  color: #E1670E;
+}
+
 .work_block {
+  display: none;
+}
+
+
+.work_block_ative {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
