@@ -42,8 +42,5 @@ window.addEventListener('DOMContentLoaded', () => {
     document.querySelector(".search").classList.remove("search--active");
     document.querySelector(".container-header-search").classList.remove("container-header-search--closed");
   });
-
-
-
-
+  
 })
