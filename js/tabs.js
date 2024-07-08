@@ -30,7 +30,7 @@ window.addEventListener('DOMContentLoaded', () => {
   document.querySelector(".container_header_burgermenu").addEventListener('click', () => {
     document.querySelector(".burger_menu").classList.toggle("burger_menu_active");
     document.querySelector(".container_header_burgermenu").classList.toggle("container_header_burgermenu--active");
-    document.querySelector(".header_burgermenu-line").classList.toggle("header_burgermenu-line--ative");
+    document.querySelector(".header_burgermenu-line").classList.toggle("header_burgermenu-line--active");
   })
 
   document.querySelector(".btn_search-link").addEventListener("click", () => {
