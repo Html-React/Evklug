@@ -240,11 +240,11 @@ a {
   transform: rotate(360deg);
 }
 
-.header_burgermenu-line--ative {
+.header_burgermenu-line--active {
   transform: rotate(-45deg);
 }
 
-.header_burgermenu-line--ative::after {
+.header_burgermenu-line--active::after {
   content: '';
   top: 0;
   opacity: 0;
@@ -252,7 +252,7 @@ a {
 
 }
 
-.header_burgermenu-line--ative::before {
+.header_burgermenu-line--active::before {
   content: '';
   top: 0;
   transform: rotate(88deg);
